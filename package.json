@@ -1,0 +1,19 @@
+{
+  "name": "tape-benchmark",
+  "version": "1.0.0",
+  "description": "Make benchmarks from your tape tests.",
+  "main": "index.js",
+  "author": "Noah Gray",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "prepublish": "./node_modules/.bin/babel . -d dist/ --ignore node_modules/ --ignore dist/"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-beta.36",
+    "@babel/core": "^7.0.0-beta.36",
+    "@babel/register": "^7.0.0-beta.36",
+    "babel-eslint": "^8.1.2",
+    "eslint": "^4.14.0"
+  }
+}
