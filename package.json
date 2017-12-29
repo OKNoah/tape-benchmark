@@ -1,6 +1,6 @@
 {
   "name": "tape-benchmarks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Make benchmarks from your tape tests.",
   "main": "dist/index.js",
   "author": "Noah Gray",
@@ -12,6 +12,7 @@
   "devDependencies": {
     "@babel/cli": "^7.0.0-beta.36",
     "@babel/core": "^7.0.0-beta.36",
+    "@babel/preset-env": "^7.0.0-beta.36",
     "@babel/register": "^7.0.0-beta.36",
     "babel-eslint": "^8.1.2",
     "eslint": "^4.14.0"
