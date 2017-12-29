@@ -1,5 +1,5 @@
 {
-  "name": "tape-benchmark",
+  "name": "tape-benchmarks",
   "version": "1.0.0",
   "description": "Make benchmarks from your tape tests.",
   "main": "index.js",

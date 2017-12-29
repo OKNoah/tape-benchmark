@@ -1,4 +1,4 @@
-# Tape-Benchmark
+# Tape-Benchmarks
 
 Experimental tool to create benchmarks from tape tests.
 
@@ -6,7 +6,7 @@ Experimental tool to create benchmarks from tape tests.
 
 ```js
 import tape from 'tape'
-import tb from 'tape-benchmark'
+import tb from 'tape-benchmarks'
 
 const test = tb(tape)
 
