@@ -2,7 +2,7 @@
   "name": "tape-benchmarks",
   "version": "1.0.0",
   "description": "Make benchmarks from your tape tests.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": "Noah Gray",
   "license": "MIT",
   "private": false,
